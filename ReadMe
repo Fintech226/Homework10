@@ -3,3 +3,10 @@
 The assignemnt looks at bitcoin data and tries to from a PCA response.
 
 Read the jupyter file
+
+Dataset is in jupyter notebook file
+
+jupyter notebook is commented as to questions answered
+Notice 
+variable names change as questions progress to 5. This is done to identify the later models or PCA.
+
